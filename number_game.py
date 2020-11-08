@@ -1,3 +1,5 @@
+#Sample file for my git
+
 # Number game
 #  Rules: Guest the Random number given by the operator. The number is
 # 0>number>=20.
