@@ -17,4 +17,4 @@ while guess != to_be_guessed:
 	else:
 		print("Sorry that you're giving up!")
 else:
-	print("Congration. You made it!")
+	print("Congratulations, You made it!")
